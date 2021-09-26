@@ -376,6 +376,14 @@ const UserInput = () => {
           </div>
         </div>
       </div>
+      <footer className=" grid   place-items-center">
+          <div className="flex items-center">
+        <img className="h-16  mr-2" src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/000000/external-computer-electronic-devices-konkapp-outline-color-konkapp.png" />
+        <h1 className="whitespace-nowrap">Build by Usama Ahmd Ansari</h1>
+        <img className="h-16   ml-2" src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/000000/external-computer-electronic-devices-konkapp-outline-color-konkapp.png" />
+
+          </div>
+      </footer>
     </div>
   );
 };
